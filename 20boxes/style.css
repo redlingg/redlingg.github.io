@@ -39,3 +39,8 @@ height: 80px;
     background-color: rgb(140, 0, 255); 
 
 }
+
+#boxes {
+    display: flex;
+    margin-top: 10px;
+}
